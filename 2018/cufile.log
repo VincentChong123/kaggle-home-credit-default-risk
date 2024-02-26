@@ -40,3 +40,15 @@
 
  26-02-2024 09:48:02:63 [pid=3985902 tid=3985902] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
  26-02-2024 09:48:02:63 [pid=3985902 tid=3985902] NOTICE  cufio-drv:720 running in compatible mode
+ 26-02-2024 12:51:23:132 [pid=2740938 tid=2740938] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 26-02-2024 12:51:23:132 [pid=2740938 tid=2740938] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 26-02-2024 12:51:23:132 [pid=2740938 tid=2740938] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 26-02-2024 12:51:23:132 [pid=2740938 tid=2740938] NOTICE  cufio-drv:720 running in compatible mode
+ 26-02-2024 14:15:59:47 [pid=1743588 tid=1743588] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 26-02-2024 14:15:59:47 [pid=1743588 tid=1743588] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 26-02-2024 14:15:59:47 [pid=1743588 tid=1743588] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 26-02-2024 14:15:59:47 [pid=1743588 tid=1743588] NOTICE  cufio-drv:720 running in compatible mode
