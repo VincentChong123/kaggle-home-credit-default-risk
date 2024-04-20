@@ -1,0 +1,10 @@
+project:
+  title: "quarto"
+  type: website
+  output-dir: docs_subdir
+format:
+  html:
+    code-overflow: wrap
+
+
+

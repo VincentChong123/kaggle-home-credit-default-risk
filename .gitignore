@@ -1,0 +1,7 @@
+**/.ipynb_checkpoints
+**/dummy.md
+**/*.csv
+**/*.log
+/input
+**/*.zip
+**/home-credit-default-risk
